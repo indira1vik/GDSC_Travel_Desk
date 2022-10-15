@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "C:\\Users\\91990\\.gradle\\daemon\\7.3.3\\com.example.traveldesk.app-merged_res-46:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\91990\\.gradle\\daemon\\7.3.3\\com.example.traveldesk.app-main-48:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\91990\\.gradle\\daemon\\7.3.3\\com.example.traveldesk.app-merged_res-46:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\91990\\.gradle\\daemon\\7.3.3\\com.example.traveldesk.app-main-48:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\91990\\.gradle\\daemon\\7.3.3\\com.example.traveldesk.app-merged_res-46:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\91990\\.gradle\\daemon\\7.3.3\\com.example.traveldesk.app-main-48:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\91990\\.gradle\\daemon\\7.3.3\\com.example.traveldesk.app-merged_res-46:\\drawable_two.jpg.flat",
+        "source": "C:\\Users\\91990\\.gradle\\daemon\\7.3.3\\com.example.traveldesk.app-main-48:\\drawable\\two.jpg"
+    },
+    {
+        "merged": "C:\\Users\\91990\\.gradle\\daemon\\7.3.3\\com.example.traveldesk.app-merged_res-46:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\91990\\.gradle\\daemon\\7.3.3\\com.example.traveldesk.app-main-48:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\91990\\.gradle\\daemon\\7.3.3\\com.example.traveldesk.app-merged_res-46:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\91990\\.gradle\\daemon\\7.3.3\\com.example.traveldesk.app-main-48:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\91990\\.gradle\\daemon\\7.3.3\\com.example.traveldesk.app-merged_res-46:\\drawable_five.jpg.flat",
+        "source": "C:\\Users\\91990\\.gradle\\daemon\\7.3.3\\com.example.traveldesk.app-main-48:\\drawable\\five.jpg"
+    },
+    {
+        "merged": "C:\\Users\\91990\\.gradle\\daemon\\7.3.3\\com.example.traveldesk.app-merged_res-46:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\91990\\.gradle\\daemon\\7.3.3\\com.example.traveldesk.app-main-48:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\91990\\.gradle\\daemon\\7.3.3\\com.example.traveldesk.app-merged_res-46:\\drawable_three.jpg.flat",
+        "source": "C:\\Users\\91990\\.gradle\\daemon\\7.3.3\\com.example.traveldesk.app-main-48:\\drawable\\three.jpg"
+    },
+    {
+        "merged": "C:\\Users\\91990\\.gradle\\daemon\\7.3.3\\com.example.traveldesk.app-merged_res-46:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\91990\\.gradle\\daemon\\7.3.3\\com.example.traveldesk.app-main-48:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\91990\\.gradle\\daemon\\7.3.3\\com.example.traveldesk.app-merged_res-46:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\91990\\.gradle\\daemon\\7.3.3\\com.example.traveldesk.app-main-48:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\91990\\.gradle\\daemon\\7.3.3\\com.example.traveldesk.app-merged_res-46:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\91990\\.gradle\\daemon\\7.3.3\\com.example.traveldesk.app-main-48:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\91990\\.gradle\\daemon\\7.3.3\\com.example.traveldesk.app-merged_res-46:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\91990\\.gradle\\daemon\\7.3.3\\com.example.traveldesk.app-main-48:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\91990\\.gradle\\daemon\\7.3.3\\com.example.traveldesk.app-merged_res-46:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\91990\\.gradle\\daemon\\7.3.3\\com.example.traveldesk.app-main-48:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\91990\\.gradle\\daemon\\7.3.3\\com.example.traveldesk.app-merged_res-46:\\drawable_one.jpg.flat",
+        "source": "C:\\Users\\91990\\.gradle\\daemon\\7.3.3\\com.example.traveldesk.app-main-48:\\drawable\\one.jpg"
+    },
+    {
+        "merged": "C:\\Users\\91990\\.gradle\\daemon\\7.3.3\\com.example.traveldesk.app-merged_res-46:\\drawable_four.jpg.flat",
+        "source": "C:\\Users\\91990\\.gradle\\daemon\\7.3.3\\com.example.traveldesk.app-main-48:\\drawable\\four.jpg"
+    },
+    {
+        "merged": "C:\\Users\\91990\\.gradle\\daemon\\7.3.3\\com.example.traveldesk.app-merged_res-46:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\91990\\.gradle\\daemon\\7.3.3\\com.example.traveldesk.app-main-48:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\91990\\.gradle\\daemon\\7.3.3\\com.example.traveldesk.app-merged_res-46:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\91990\\.gradle\\daemon\\7.3.3\\com.example.traveldesk.app-main-48:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.traveldesk.app-merged_res-46:/drawable_ic_baseline_flight_24.xml.flat",
+        "source": "com.example.traveldesk.app-main-48:/drawable/ic_baseline_flight_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\91990\\.gradle\\daemon\\7.3.3\\com.example.traveldesk.app-merged_res-46:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\91990\\.gradle\\daemon\\7.3.3\\com.example.traveldesk.app-main-48:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\91990\\.gradle\\daemon\\7.3.3\\com.example.traveldesk.app-merged_res-46:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\91990\\.gradle\\daemon\\7.3.3\\com.example.traveldesk.app-main-48:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\91990\\.gradle\\daemon\\7.3.3\\com.example.traveldesk.app-merged_res-46:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\91990\\.gradle\\daemon\\7.3.3\\com.example.traveldesk.app-main-48:\\mipmap-hdpi\\ic_launcher_round.webp"
+    }
+]

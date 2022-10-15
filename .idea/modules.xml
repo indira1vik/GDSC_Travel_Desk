@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TravelDesk.iml" filepath="$PROJECT_DIR$/.idea/modules/TravelDesk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TravelDesk.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TravelDesk.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TravelDesk.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TravelDesk.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TravelDesk.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TravelDesk.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TravelDesk.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TravelDesk.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
